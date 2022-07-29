@@ -1,4 +1,6 @@
-﻿|**Date**|**Time**|**Schedule**|**Remarks**|
+# Schedule for 2-day Kubernetes Bootcamp
+
+|**Date**|**Time**|**Schedule**|**Remarks**|
 | :-: | :-: | :-: | :-: |
 |30-Jul-22|11:00|Sign-In & Opening remarks| |
 |30-Jul-22|11:30|**1.Getting started with Kubernetes**|Learning |
