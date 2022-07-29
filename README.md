@@ -94,6 +94,8 @@ Part lecture, part discussion, exercises, and lots of hands-on practice.
 # Duration & Schedule
 Two days (usually 14 hours including breaks), 30th & 31st July 2022 (11 am ~ 6 pm GMT+5)
 
+Complete Schedule for bootcamp is available here --> https://github.com/engineerbaz/Kubernetes-2-days-Boot-camp-2022July/blob/main/Schedule.md
+
 # Requirements
 - Familiarity with the Linux command line
 - An understanding of networking concepts
