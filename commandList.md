@@ -1,15 +1,16 @@
-# GIT REPO LINK 
-https://github.com/engineerbaz/Kubernetes-2-days-Boot-camp-2022July
-----------------------------------------------------------------------
+# 2-Days Kubernetes Bootcamp
 
-# PLAY WITH DOCKER LINK
+## GIT REPO LINK 
+https://github.com/engineerbaz/Kubernetes-2-days-Boot-camp-2022July
+
+## PLAY WITH DOCKER LINK
 An online interactive web based Docker enviornment 
 https://labs.play-with-docker.com/
 
-# DOCKER ACCOUNT
+## DOCKER ACCOUNT
 https://hub.docker.com/
  
-# KUBERNETES 
+## KUBERNETES command references 
 https://kubectl.docs.kubernetes.io/references/kubectl/
 
 
@@ -36,12 +37,11 @@ docker stop container_name
 docker kill container_name
 ```
 
-First, start a container.
-$ docker run --name ubuntu_bash --rm -i -t ubuntu bash
-This will create a container named ubuntu_bash and start a Bash session.
+First, start a container
+`$ docker run --name ubuntu_bash --rm -i -t ubuntu bash`
 
-Next, execute a command on the container.
-$  docker exec -it ubuntu_bash bash
+This will create a container named ubuntu_bash and start a Bash session.
+`$  docker exec -it ubuntu_bash bash`
 
 -------------------------------------------------------------------
 # KUBERNETES COMMANDS
