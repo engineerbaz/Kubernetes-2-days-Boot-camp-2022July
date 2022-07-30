@@ -109,3 +109,8 @@ https://www.linkedin.com/pulse/kubernetes-bootcamp-coming-bashir-ahmed-zeeshan
 
 For Registration & details visit:  https://bit.ly/joinBootcmapK8s22F
 
+## Learning Resources
+
+- [Kubernetes Most Useful Commands](https://github.com/engineerbaz/Kubernetes-2-days-Boot-camp-2022July/blob/main/k8sListOfCommands.md)
+- [Docker Commands](https://github.com/engineerbaz/Kubernetes-2-days-Boot-camp-2022July/edit/main/commandList.md)
+
