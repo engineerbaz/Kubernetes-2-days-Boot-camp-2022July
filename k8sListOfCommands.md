@@ -11,13 +11,15 @@ $ kubectl describe pod monkey
 
 ## 2. Create Deployments
 Create single deployment:
+
 `$ kubectl run monkey — image=monkey — record`
 
 ## 3. Scaling PODs
 $ kubectl scale deployment/POD_NAME — replicas=N
 
-##4. POD Upgrade and history
+## 4. POD Upgrade and history
 List history of deployments:
+
 `$ kubectl rollout history deployment/DEPLOYMENT_NAME`
 
 Jump to specific revision:
